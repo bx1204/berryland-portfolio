@@ -1,0 +1,7 @@
+{
+  "name": "Berryland Portfolio",
+  "description": "A minimalist architectural and artistic portfolio website inspired by RAAAF, featuring categories for weaving, landscape, and modeling with a full administrative management interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
